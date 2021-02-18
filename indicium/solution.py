@@ -14,8 +14,6 @@ class LatinSquare:
 
         return string[0:-1]
 
-        # new test comment
-
     def __init__(self, n):
 
         self.n = n
